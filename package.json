@@ -29,6 +29,7 @@
   "type": "module",
   "dependencies": {
     "@sveltejs/adapter-vercel": "^3.1.0",
+    "bits-ui": "^0.11.5",
     "clsx": "^2.0.0",
     "lucide-svelte": "^0.294.0",
     "tailwind-merge": "^2.1.0",
